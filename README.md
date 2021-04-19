@@ -21,6 +21,8 @@
 ![ReactJS](https://img.shields.io/badge/JS-REACT-green)
 ![ExpressJS](https://img.shields.io/badge/JS-Express.js-red)
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ondrinevg&show_icons=true&theme=gotham" alt="Eugene Ondrin" />
+
 <!--
 **ondrinevg/ondrinevg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
