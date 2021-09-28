@@ -6,7 +6,7 @@
 - 🤔 Мой телеграмм: @ondrin
 
 
-![CodeWars](https://www.codewars.com/users/AnaelM/badges/large)
+![CodeWars](https://www.codewars.com/users/ondrinevg/badges/large)
 
 
 
